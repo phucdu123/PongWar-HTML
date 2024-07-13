@@ -1,3 +1,4 @@
 # PongWar-HTML
 
-## Contact: [Trọng Phúc](https://www.facebook.com/phuc.shu)
+## Contact:
+`Facebook` [Trọng Phúc](https://www.facebook.com/phuc.shu)
